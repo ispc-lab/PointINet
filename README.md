@@ -4,7 +4,9 @@
 
 The repository contains the source code and pre-trained models of our paper (published on AAAI 2021): `PointINet: Point Cloud Frame Interpolation Network`.
 
+<div align="center">
 <img src="./figs/interpolation.png"  width = "500" height = "500"/>
+</div>
 
 ## Environment
 
