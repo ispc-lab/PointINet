@@ -98,7 +98,7 @@ python test.py --gpu GPU --dataset nuscenes --root DATAROOT --pretrain_model POI
 
 ## Citation
 
-    @InProceedings{Lu_2020_NeurIPS,
+    @InProceedings{Lu2020_PointINet,
         author = {Lu, Fan and Chen, Guang and Qu, Sanqing and Li, Zhijun and Liu, Yinlong and Knoll, Alois},
         title = {PointINet: Point Cloud Frame Interpolation Network},
         booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
